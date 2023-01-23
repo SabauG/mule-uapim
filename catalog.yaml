@@ -5,7 +5,7 @@ projects:
     version: 1.1.0
     apiVersion: v1
     contact:
-      name: 'Admin Universal'
+      name: 'Admin Universal API'
       email: 'admin@universalcompany.com'
     tags:
       - logistics
