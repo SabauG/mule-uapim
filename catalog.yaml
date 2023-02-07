@@ -1,4 +1,4 @@
-#%Catalog Descriptor 1.1
+#%Catalog Descriptor 1.0
 projects:
   - main: payments-oas.yaml
     assetId: invoice-payment-system-api
