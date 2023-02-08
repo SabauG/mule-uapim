@@ -1,4 +1,4 @@
-# Payments API - UAPIM - NEW RELEASE 2
+# Payments API - UAPIM - NEW RELEASE 3
 
 Permits payments of orders if current User has access permissions to it. 
 Developed by Admin at Universal
